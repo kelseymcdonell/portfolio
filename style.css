@@ -1,0 +1,116 @@
+body {
+    background-image: url(images/yellowblue.jpg);
+    position: relative;
+    font-family: 'Delius Unicase', cursive;
+}
+
+h2 {
+    font-kerning: none;
+    color:  rgb(44, 46, 48);
+     font-family: 'Rock Salt', cursive;
+    /* background-image: url(images/yellowblue.jpg); */
+    /* padding: 10px; */
+    /* width: fit-content;  */
+  
+}
+
+#about {
+    padding:50px;
+    height: fit-content;
+    color: rgb(196, 192, 192);
+    background-color: #5F666C;
+    opacity: .9;
+    border-color:rgba(220, 173, 92, 0.109);
+    border-width:  10px;
+    border-style: solid; 
+    margin-bottom: 100px;
+} 
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.card-deck{
+    margin: 30px;
+}
+.card-body{
+    background-color: #4aaaa5; 
+    color: #fff;
+    text-align: center;
+    height: fit-content;
+}
+.card{
+    max-height: 200px;
+    max-width: 250px;
+}
+.card-img-top{
+    width: 100%;
+    height: 130px;
+}
+
+#portfolio {
+    padding:50px;
+    height: fit-content;
+    margin-bottom: 100px;
+    color: rgb(196, 192, 192);
+    background-color: #06AAB6;
+ 
+    opacity: .87;
+    border-color:rgba(220, 173, 92, 0.109);
+    border-width:  10px;
+    border-style: solid;
+}
+
+#demo {
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+
+#contact {
+    padding:50px;
+    height: fit-content;
+    margin-bottom: 100px;
+    color: #fff; 
+    background-color: #6AAB8D; 
+    opacity: .93;
+    border-color:rgba(220, 173, 92, 0.109);
+    border-width:  10px;
+    border-style: solid;
+}
+
+#mynav {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: 	#ff4e50;
+    opacity: .96;
+    /* border-top: 2px;
+    border-bottom: 2px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: whitesmoke; */
+    color: whitesmoke;
+    /* font-family: 'Cormorant Unicase', serif; */
+    /* font-family: 'Alegreya Sans SC', sans-serif; */
+    /* font-family: 'Rock Salt', cursive; */
+    /* font-family: 'Walter Turncoat', cursive; */
+    font-family: 'Delius Unicase', cursive;
+}
+
+#brand {
+    color: whitesmoke;
+}
+
+ul.nav {
+color: whitesmoke !important;
+}
+
+#prof {
+    height: 200px;
+    margin-top: 15px
+}
+
+#icondiv {
+    padding: 18px;
+
+}
